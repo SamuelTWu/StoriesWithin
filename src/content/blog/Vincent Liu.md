@@ -13,11 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Vincent Liu
 
-<<<<<<< HEAD
 ![local image](/../src/assets/Vincent_Liu.jpg)
-=======
-![local image](../../assets/Vincent_Liu.JPG)
->>>>>>> 12795f73 (fixed img url)
 
 I've become more outgoing. I’ve definitely become more sociable. I ended up joining the Chinese Student Association, which when I first came here a freshman year, I would never have done. In high school, I was very shy. I was very reserved. I had my own group of friends so I didn't really talk to people. The impression back then was that I was just there to get my grades and go home. I've been doing fine art for a long time. Every Thursday since seventh grade, I try to do like 2-3 hours of art. I did an art camp in the woods. It was a summer camp with an old angry Chinese lady teacher. We did all of our portfolio stuff there and while we were doing it she was like, oh, you should consider graphic design. So I decided to pursue graphic design in college. 
 
