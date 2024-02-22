@@ -16,8 +16,8 @@ layout: ../../layouts/BlogPost.astro
 
 ![local image](../../assets/Bella_Davies.JPG)
 
-The high school that I went to was like really competitive and it felt like everyone was just so smart and everyone's parents were so successful. It was like a lot of pressure to do well in school and do sports and all this stuff. So in high school, when I was a freshman, I was friends with these girls that I had gone to like middle school and elementary school with and they were really like put together and like perfect. So I also played a role in feeling pressure all the time to be perfect. 
+The high school that I went to was like really competitive and it felt like everyone was just so smart and everyone's parents were so successful. It was like a lot of pressure to do well in school and do sports and all this stuff. So in high school, when I was a freshman, I was friends with these girls that I had gone to middle and elementary school with and they were really put together and perfect. That played a role in feeling pressure all the time to be perfect. 
 
-I kind of left those girls and became friends with some different people who are like, not as perfect and they were. Like a little more relaxed. So being around them made me relax a little bit more and not like so stressed about school. I will say that I didn't do as well in school when I was like friends with them and hanging out with them because they weren't so focused. So then I wasn't so focused.
+I kind of left those girls and became friends with some different people who were not as perfect. A little more relaxed. Being around them made me relax a more and not be so stressed about school. I didn't do as well in school when I was friends with them, but I was a lot more relaxed. 
 
 
