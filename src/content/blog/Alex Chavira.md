@@ -11,9 +11,9 @@ imgUrl: '../../assets/Alex_Chavira.JPG'
 layout: ../../layouts/BlogPost.astro
 
 ---
-# Youssef Haider
+# Alex Chavira
 
-![local image](/../src/assets/Alex_Chavira.JPG)
+![local image](/../../assets/Alex_Chavira.JPG)
 
 This summer was some of the most fun I’ve had musically. Doing Scarlett Band, just being able to play easy music and vibe out. We were all just like having a blast and like kind of shooting the shit as well. Honestly, I came into it being a little jaded. Sort of like, I'm too good for this. Then you get into it and you're like, no, this is just fun. And during that time also we would jam all the time. 
 
