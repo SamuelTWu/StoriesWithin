@@ -12,7 +12,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Alex Shores
 
-![local image](/../src/assets/Alex_Shores.JPG)
+![local image](../../assets/Alex_Shores.JPG)
 
 I'm first gen. Like, my dad went to a semester at a music school in Berkeley and my mom did like a couple of semesters at a community college. They never got a degree. So neither of them had the experience and most of my relatives didn't go to college, so I never really knew what to expect.
 My dad very much encouraged me to only think about my career, only do things in college that would benefit my career. But then to realize that you're a person and there's so much more to you than that and to like, just explore those things. 
