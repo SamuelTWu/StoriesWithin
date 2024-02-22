@@ -1,0 +1,83 @@
+---
+import Layout from '@layouts/Default.astro';
+import RecentBlogPosts from '@components/generic/RecentBlogPosts.astro';
+import MobileSocials from '@components/home/MobileSocials.astro';
+import { Pill } from '@eliancodes/brutal-ui';
+import { Button } from '@eliancodes/brutal-ui';
+import { Card } from '@eliancodes/brutal-ui';
+
+const builtWith = [
+  { name: 'Google', url: 'https://google.com' },
+  { name: 'GitHub', url: 'https://github.com/SamuelTWu' },
+  { name: 'LinkIn', url: 'https://www.linkedin.com/in/samuel-wu-bu/' },
+  { name: 'Insta', url: 'https://www.instagram.com/stories_within_/' },
+  
+];
+---
+
+<Layout
+  title='Home'
+  pageTitle='Stories Within| Home'
+  description='Stories Within is a collection of stories from students like you!'
+>
+  <main class='home_color p-6'>
+    <MobileSocials />
+    <section id='about' class='grid md:grid-cols-8 gap-8 mt-4'>
+      <h2 class='hidden'>About Brutal</h2>
+      <div class='col-span-4'>
+        <Card>
+          <div class='flex flex-col justify-between items-start gap-4'>
+            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+              Welcome to Stories Within
+            </p>
+            <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+              Adventure awaits below! 
+            </p>
+            <Button target={'_self'} href='/blog/'>
+              Click for a Story &rarr;
+            </Button>
+          </div>
+        </Card>
+      </div>
+      <div class='col-span-2'>
+        <Card>
+          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-8 dm-serif'>
+            Check out our links
+          </h2>
+          <ul class='flex gap-4 flex-wrap'>
+            {
+              builtWith.map((item) => (
+                <li>
+                  <Pill>
+                    <a
+                      class='sanchez'
+                      href={item.url}
+                      target='_blank'
+                      title={`Go to ${item.name}`}
+                    >
+                      {item.name}
+                    </a>
+                  </Pill>
+                </li>
+              ))
+            }
+          </ul>
+        </Card>
+      </div>
+      <div class='col-span-2'>
+        <Card>
+          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-4 dm-serif'>
+            What is Stories Within?
+          </h2>
+          <p class='poppins'>
+            Stories Within is a Honors College Keystone Project that aims to capture the diverse and inspiring Stories of the BU community through casual interviews with students like you. Click  <a
+                class='text-white'
+                target='_blank'
+                href='https://bostonu.qualtrics.com/jfe/form/SV_cJeOVyPJiWBFJfE'>here</a> for an interview!
+          </p>
+        </Card>
+      </div>
+    </section>
+    <RecentBlogPosts />
+  </main>
+</Layout>
