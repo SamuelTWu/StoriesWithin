@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Divya Sood
 
-![local image](/../src/assets/Divya_Sood.JPG)
+![local image](../../assets/Divya_Sood.JPG)
 
 I have always liked to write and talk about my experiences from the lens of reflecting on them. When I was younger, like in middle school, I used to watch a lot of YouTubers and like, wanted to be that person. So I just like, started a blog in quarantine and I wrote one post, like an introductory post.
 So that's kind of where it started. I wrote a couple of posts. I wrote a reflection post about the transition to college from the COVID-19 perspective in November. So it was a lot of like, just like reflecting on my experiences. 

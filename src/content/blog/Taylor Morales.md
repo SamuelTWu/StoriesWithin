@@ -12,7 +12,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Talor Morales
 
-![local image](/../src/assets/Taylor_Morales.JPG)
+![local image](../../assets/Taylor_Morales.JPG)
 
 Going through the pandemic in college was revolutionary for how I perceived the world. I was so afraid when I had to go home. We were given three days to pack up and I had to go back 2500 miles. Didn't even get through my first year of college. I was just so afraid of the unknown amount of time that I would be isolated.
 

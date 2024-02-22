@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Shermar Fraizer
 
-![local image](/../src/assets/Shermar_Fraizer.JPG)
+![local image](../../assets/Shermar_Fraizer.JPG)
 
 The way I expressed my blackness or the way that I felt like my blackness was portrayed to me growing up was vastly different. I was taught that I'm supposed to be proud of my blackness but also somewhat suppress it because of all of the backlash and all the terrible things that can come with it.
 

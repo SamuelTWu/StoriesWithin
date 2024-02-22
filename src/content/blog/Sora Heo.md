@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Sora Heo
 
-![local image](/../src/assets/Sora_Heo.JPG)
+![local image](../../assets/Sora_Heo.JPG)
 
 My mom works in the restaurant industry. She owned three restaurants in Chicago, so food is just a really big part of my life. Coming to BU, I wanted to continue living in a huge city. I grew up in Chicago, so I'm used to Chinese restaurants opening till 3:00 am or going to a game. Public transit has been a big part of my life ever since I was young. 
 

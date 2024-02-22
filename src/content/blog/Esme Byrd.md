@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Esme Byrd
 
-![local image](/../src/assets/Esme_Byrd.png)
+![local image](../../assets/Esme_Byrd.png)
 
 I came into college with a good childhood. I grew up and a great family and I was really blessed to have super loving parents and siblings. I didn't come into college with a lot of drama. Then I came to college and that changed. Things started to unravel in different ways. A lot of my friends were people in hard situations. They sometimes struggled mentally, physically, or emotionally. It was very challenging to be in that space and to love those people. Sometimes they found themselves in dangerous spaces and dangerous situations and I had to figure out how to balance between “I'm not trying to push you or judge you, but what you're doing is genuinely unsafe for yourself and other people”. That was challenging and it escalated into intense things. People were experiencing suicidal ideation and attempts. And there was other mental health stuff too with other people who were close to me.
 

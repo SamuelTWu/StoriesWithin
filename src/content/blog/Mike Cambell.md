@@ -12,7 +12,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Mike Campbell
 
-![local image](/../src/assets/Mike_Campbell.jpeg)
+![local image](../../assets/Mike_Campbell.jpeg)
 
 I’m from Long Island, I went to a Catholic school. My family’s Irish. _Irish_, Irish. My dad is conservative, so I’m from a 50/50 liberal to conservative family. But I feel like I'd always kind of grown up in the more left-camp side of things. I would say in high school I was definitely much more conscious of the way people thought of me. And I think I was much less open-minded. I mean, I'd always been quote-unquote liberal, but not as open-minded to trying new things. But when I got to BU, it was like, oh, wow. You meet people from all around the world thinking all different things. On both ends of the spectrum: I met people with way more conservative views and that's been interesting.
 

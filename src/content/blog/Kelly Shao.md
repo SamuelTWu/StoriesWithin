@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Kelly Shao
 
-![local image](/../src/assets/Kelly_Shao.jpg)
+![local image](../../assets/Kelly_Shao.jpg)
 
 I like the freedom. I like the feeling that comes with it. But also I love to see how people react to my performances. I remember I played Tanya in Mama Mia and some people would come up to me and be like “You were my favorite. You stole the show. I love when you did this, I love when you did that.” And that's always super cool.
 

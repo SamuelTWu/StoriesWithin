@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Rudy Joseph
 
-![local image](/../src/assets/Rudy_Joseph.JPG)
+![local image](../../assets/Rudy_Joseph.JPG)
 
 It started with looking at Instagram. I came across one of my friends who was also at Montclair State announcing that she was going to BU. I was like, oh wow, I wanted to go to the school when I was in high school, but I didn't get in at the time. And then I was like, let me just look back at this school again to see what's up and what else is new. The BU School of Education was starting my major, education and human development. It was very new at BU and it was something that was directly aligned with what I was interested in.
 

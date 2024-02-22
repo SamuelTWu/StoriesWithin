@@ -6,14 +6,14 @@ author: Sam Wu
 tags:
   - Pre Med
   - Childhood
-  - Immigrant
+  - Nigeria
 imgUrl: '../../assets/Precious_Amiewalan.JPG'
 layout: ../../layouts/BlogPost.astro
 
 ---
 # Precious Amiewalan
 
-![local image](/../src/assets/Precious_Amiewalan.JPG)
+![local image](../../assets/Precious_Amiewalan.JPG)
 
 I was born in Nigeria and my parents and us moved here when I was around seven or so. My mom owns two businesses so I would help her a lot as a kid for the salon.  So I think I was just into saving at like, the age of 12 or, yeah.
 

@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Rigpea Wangchuk
 
-![local image](/../src/assets/Rigpea_Wangchuk.JPG)
+![local image](../../assets/Rigpea_Wangchuk.JPG)
 
 I started off as a shy kid. My first semester I barely talk to people. I was a shut-in. Every night I could have gone out. But the thing is I stayed in. So my first year I focused on academics a lot
 

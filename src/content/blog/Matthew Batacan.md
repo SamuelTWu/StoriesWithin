@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Matthew Batacan
 
-![local image](/../src/assets/Matthew_Batacan.JPG)
+![local image](../../assets/Matthew_Batacan.JPG)
 
 It's a little bit more cliquey here. People will have their groups and then just kind of stick to them. In Hawaii, my senior year of high school, there was a section where the seniors would sit when they had breaks or stuff. Everyone had their table but you could go to someone else's table and just sit down. It wouldn't be weird. You still hung out with your group of friends but everyone was so welcoming. Sometimes here it can feel intimidating.
 

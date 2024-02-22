@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Sissi Wang
 
-![local image](/../src/assets/Sissi_Wang.JPG)
+![local image](../../assets/Sissi_Wang.JPG)
 
 Growing up, I wanted to be an actress or a singer, but my parents were against the idea. They didn't want me to enter the entertainment industry, especially since I was living in China at a time when the industry was even messier and there were a lot of dark sides to it. I was younger then, and didn't know the reality of being a public figure. But I do wonder how my life would be different if I pursued those opportunities that came my way instead of my current path. 
 

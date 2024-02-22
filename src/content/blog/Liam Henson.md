@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Liam Henson
 
-![local image](/../src/assets/Liam_Henson.JPG)
+![local image](../../assets/Liam_Henson.JPG)
 
 I was semi-bullied in high school which came along with the toxic environment of the stem majors.  In college, I'm not put down for not being smart. I'm allowed to make mistakes and I am surrounded by friends who make me feel like I can show them my weaknesses and flaws. 
 I am a lot more confident, whereas before I was met with scolding and bad remarks. Here, it's like we're all human, we're not perfect, we make mistakes and I have friends who have faith in me. 

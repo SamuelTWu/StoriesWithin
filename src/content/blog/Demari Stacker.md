@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Demari Stacker
 
-![local image](/../src/assets/Demari_Stacker.JPG)
+![local image](../../assets/Demari_Stacker.JPG)
 
 I was taking Japanese completely by chance. As a kid, I moved around a lot. So in middle school, I went to a new school called Andrew Jackson Language Academy. And the deal is that every kid has to take a language. You have your basics like Spanish and French, but also Italian, Mandarin, and Japanese. And of course, I picked Spanish because it was the most practical. There's like a card you get and you're supposed to list your languages. I was like, okay, Spanish is the top. So my next two are gonna be jokes.
 

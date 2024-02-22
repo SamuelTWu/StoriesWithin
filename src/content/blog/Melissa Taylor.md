@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Melissa Taylor
 
-![local image](/../src/assets/Melissa_Taylor.JPG)
+![local image](../../assets/Melissa_Taylor.JPG)
 
 In high school, I was constantly doing a lot. I've always been the one who does good things and is capable of doing a lot of good things. Whenever I received valuation in high school it would be like, wow, you got a great grade, or, you accomplished this great project. 
 

@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Christophe Lapine
 
-![local image](/../src/assets/Christophe_Lapine.JPG)
+![local image](../../assets/Christophe_Lapine.JPG)
 
 I went to the Japanese International School and told everyone that I was gay. Like, they probably wouldn't like me as much, or the guys at least. I don't know about the girls. I feel like girls just don't give a fuck anywhere except my mom. But one of the girls at the Japanese International School, she asked me on like the last day. She was like, are you gay?
 

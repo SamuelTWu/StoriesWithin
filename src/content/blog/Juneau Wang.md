@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Juneau Wang
 
-![local image](/../src/assets/Juneau_Wang.jpeg)
+![local image](../../assets/Juneau_Wang.jpeg)
 
 Being part of a band was an important experience for me. That and dating Nicky. We've been in a long-term relationship for almost three years at this point. I can't do the math right now, but we met freshman year. I think that was really a life-changing experience - just understanding how to love somebody. But you know, being in a band is funny because when you’re in a band like Scarlet Band, it's an easy thing to harp on. But honestly, Scarlet Band was amazing and I continue to enjoy it. Scarlet Band is the summer school band that plays for the university at all the summer events. It gave me summer housing which allowed me to do research. So being able to do something I love and be compensated for it with housing was amazing. 
 

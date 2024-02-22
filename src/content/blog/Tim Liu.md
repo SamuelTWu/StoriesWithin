@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Timothy Liu
 
-![local image](/../src/assets/Tim_Liu.JPG)
+![local image](../../assets/Tim_Liu.JPG)
 
 I think the big change for me was I became a Resident Assistant. Most of my friends are RAs. My mom was like, “You should do it because it saves a lot of money”. And I was like, “ok”. I honestly didn't really know what they did. In my first semester, I got locked out twice. I sat at the GSU and I was like, “This sucks”. 
 

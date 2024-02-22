@@ -15,7 +15,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Rithvik Doshi
 
-![local image](/../src/assets/Rithvik_Doshi.JPG)
+![local image](../../assets/Rithvik_Doshi.JPG)
 
 I feel like in college, I started being more honest with myself, trying to figure out who I am and how not to define myself in relation to other people or like by comparing myself to other people. At the same time, I feel like I'm still trying to break down specific behaviors that I have and that have been carried on from my parents that can be counterproductive to myself or can sometimes hurt other people.
 

@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Youssef Haider
 
-![local image](/../src/assets/Youssef_Haider.JPG)
+![local image](../../assets/Youssef_Haider.JPG)
 
 I always remind myself that my family was sacrificing a lot financially and emotionally to bring me here, thousands of miles away from them, to further my education. It helps me perform well on my own academically. It helped me make the most out of the connections and making friendships.
 

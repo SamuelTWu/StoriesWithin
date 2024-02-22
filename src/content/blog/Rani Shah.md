@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Rani Shah
 
-![local image](/../src/assets/Rani_Shah.JPG)
+![local image](../../assets/Rani_Shah.JPG)
 
 I don't hate the Midwest as much as I thought I did back when I was in high school. Coming to Boston, I realized that places are not actually that vastly different. It's in your mind: you make them out to be. I like some parts of the Midwest where there's a little bit more breathing room, but I guess Boston is a bit more diverse and you're able to find a little bit more cultural things happening.
 

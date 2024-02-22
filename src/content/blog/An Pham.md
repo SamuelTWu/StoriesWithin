@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # An Pham
 
-![local image](/../src/assets/An_Pham.JPG)
+![local image](../../assets/An_Pham.JPG)
 
 I’ve started understanding what I actually want to do after college. I know that's what I paid to learn and I'm happy I learned it but it's been a big thing. I no longer want to do computer science, which I'm good at. I want to work in policy. But then it's been a big step in learning how exactly different powerful groups, including the government and all its layers, make decisions.
 

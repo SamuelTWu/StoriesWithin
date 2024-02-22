@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Diana Reno
 
-![local image](/../src/assets/Diana_Reno.JPG)
+![local image](../../assets/Diana_Reno.JPG)
 
 I had planned to go to public school for my whole life. But in the sixth grade, we moved to Westport Massachusetts. The teachers are fantastic. It's Massachusetts so you get a good education. But the school itself was crumbling to pieces. Physically crumbling to pieces.
 The 7th and 8th graders got shoved in with the high schoolers. So I was playing on high school teams. I was in high school plays and choruses. I won't blame the teachers because they tried so hard, but the administration, the schedule, everything was terrible.

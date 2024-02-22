@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Dhruv Kapadia
 
-![local image](/../src/assets/Dhruv_Kapadia.JPG)
+![local image](../../assets/Dhruv_Kapadia.JPG)
 
 I think I was a pretty different person in my hometown. I grew up in a small suburb in central New Jersey, called Pennington. It was largely upper-middle-class white folk. I think a lot of the issues that I personally faced growing up are pretty similar to any person of color growing up in a predominantly white area: exclusion from friend groups, just feeling a little bit different.
 

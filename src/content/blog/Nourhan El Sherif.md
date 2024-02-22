@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Nourhan El Sherif
 
-![local image](/../src/assets/Nourhan_El_Sherif.JPG)
+![local image](../../assets/Nourhan_El_Sherif.JPG)
 
 In high school, I was super into fashion. My priority was to experience all the different styles. I went through an anime phase. I went to a convention. It was, like, pretty embarrassing. I had a whole collection of Hot Topic shirts. That ended my sophomore year of high school. My mom went on a pilgrimage to Mecca near my junior year. When she came back, it was a whole transformation for her. And since she was always my role model, when she became more religious, it kind of guided me to be more religious as well. I started taking modesty more seriously. That was a big deal. 
 

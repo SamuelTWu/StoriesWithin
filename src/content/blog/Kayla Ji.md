@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Kayla Ji
 
-![local image](/../src/assets/Kayla_Ji.JPG)
+![local image](../../assets/Kayla_Ji.JPG)
 
 In high school, I literally thought there was something wrong with me because I couldn't pay attention. My mom would be like, oh, if you just pay attention in class, it will be easy for you on the test.
 

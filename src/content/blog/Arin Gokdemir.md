@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Arin Gokdemir
 
-![local image](/../src/assets/Arin_Gokdemir.JPEG)
+![local image](../../assets/Arin_Gokdemir.JPEG)
 
 Dude, we were crazy. It was DC, so you leave the school and walk outside and the White House is right there. We used to explore all sorts of stuff. I was a bad kid. I wasn't a big drinker or smoker, I was just a problem for my parents. 
 

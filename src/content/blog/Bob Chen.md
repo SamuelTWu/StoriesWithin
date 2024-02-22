@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Bob Chen
 
-![local image](/../src/assets/Bob_Chen.JPG)
+![local image](../../assets/Bob_Chen.JPG)
 
 In high school was more introverted. I grew up in China and I was adjusting to American high school. I lived with a host family in high school. After class, I would spend a lot of time with them, so not much with my classmates.
 

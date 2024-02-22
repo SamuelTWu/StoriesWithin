@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Rani Thompson
 
-![local image](/../src/assets/Rani_Thompson.JPG)
+![local image](../../assets/Rani_Thompson.JPG)
 
 I always had this very distinct idea of who I was. Not that I had an understanding of how the world works, but contentment with existence. And now being in college, all of that is challenged. Now I have more of an acceptance that things are not gonna be the way that you expect them to be. You're gonna be surprised by life and by other people. Being an adult is having experiences you've never had before and having to be ok with that and move through it. And that's crazy. That's so new.
 

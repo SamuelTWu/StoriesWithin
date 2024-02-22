@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Samantha Perez
 
-![local image](/../src/assets/Sam_Perez.jpeg)
+![local image](../../assets/Sam_Perez.jpeg)
 
 I have immigrant parents. It's like you either have to be a lawyer or a doctor. So I was like I’ll be a doctor. I found it more interesting. Now, even though I’m super interested in psychology, I decided to not do medicine. I'm studying political science in Latin American studies, which is a total shift from what I did when I first got here.
 

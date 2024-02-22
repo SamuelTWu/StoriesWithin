@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Bella Davies
 
-![local image](/../src/assets/Bella_Davies.JPG)
+![local image](../../assets/Bella_Davies.JPG)
 
 The high school that I went to was like really competitive and it felt like everyone was just so smart and everyone's parents were so successful. It was like a lot of pressure to do well in school and do sports and all this stuff. So in high school, when I was a freshman, I was friends with these girls that I had gone to like middle school and elementary school with and they were really like put together and like perfect. So I also played a role in feeling pressure all the time to be perfect. 
 

@@ -13,7 +13,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Virginia Popov
 
-![local image](/../src/assets/Virginia_Popov.JPG)
+![local image](../../assets/Virginia_Popov.JPG)
 
 Coming into undergrad, I was really focused on academics. Now, because I'm gonna be applying to law schools, I think I’ve shifted a little bit. I want to put a little bit more into student culture and that kind of social dynamic. That was definitely a transition. At first, I couldn't really put my finger on it. It took me a little while to figure out what was going on in terms of connecting with people differently. After a while, I started trying to be more confident in my own identity and assert myself a little bit more. Not be drowned out by everyone else.
 

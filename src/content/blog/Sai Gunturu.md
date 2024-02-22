@@ -14,7 +14,7 @@ layout: ../../layouts/BlogPost.astro
 ---
 # Sai Gunturu
 
-![local image](/../src/assets/Sai_Gunturu.JPG)
+![local image](../../assets/Sai_Gunturu.JPG)
 
 I was way more insecure about myself in high school. I wasn't comfortable being in my own skin. So I would try to act more like confident, you know, instead of actually being confident, and more like putting on a show. I'd use academic achievement as self-worth in high school. Like, the only way I was getting confidence was if I got good grades. I had a fragile ego and stuff like that. 
 
