@@ -175,6 +175,20 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
+"Adam Shamsi.md": {
+	id: "Adam Shamsi.md";
+  slug: "adam-shamsi";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Adi Iyer.md": {
+	id: "Adi Iyer.md";
+  slug: "adi-iyer";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Alex Chavira.md": {
 	id: "Alex Chavira.md";
   slug: "alex-chavira";
@@ -203,6 +217,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Araba Aidoo.md": {
+	id: "Araba Aidoo.md";
+  slug: "araba-aidoo";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Arin Gokdemir.md": {
 	id: "Arin Gokdemir.md";
   slug: "arin-gokdemir";
@@ -220,6 +241,13 @@ declare module 'astro:content' {
 "Bob Chen.md": {
 	id: "Bob Chen.md";
   slug: "bob-chen";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Charlotte Cheung.md": {
+	id: "Charlotte Cheung.md";
+  slug: "charlotte-cheung";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -294,6 +322,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Leensyn Rivera.md": {
+	id: "Leensyn Rivera.md";
+  slug: "leensyn-rivera";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Liam Henson.md": {
 	id: "Liam Henson.md";
   slug: "liam-henson";
@@ -325,6 +360,13 @@ declare module 'astro:content' {
 "Mike Cambell.md": {
 	id: "Mike Cambell.md";
   slug: "mike-cambell";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Nicolas McMahon.md": {
+	id: "Nicolas McMahon.md";
+  slug: "nicolas-mcmahon";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
