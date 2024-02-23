@@ -7,7 +7,6 @@ tags:
   - California
   - Poli Sci
   - Journalism
-  - Indian
   - Asian
 imgUrl: '../../assets/Adi_Iyer.JPG'
 layout: ../../layouts/BlogPost.astro
