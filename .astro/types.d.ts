@@ -280,6 +280,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Dima Almousa.md": {
+	id: "Dima Almousa.md";
+  slug: "dima-almousa";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Divya Sood.md": {
 	id: "Divya Sood.md";
   slug: "divya-sood";
@@ -297,6 +304,20 @@ declare module 'astro:content' {
 "Evan Jaquevan.md": {
 	id: "Evan Jaquevan.md";
   slug: "evan-jaquevan";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Henry Williams.md": {
+	id: "Henry Williams.md";
+  slug: "henry-williams";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Jay Yoo.md": {
+	id: "Jay Yoo.md";
+  slug: "jay-yoo";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -357,9 +378,23 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Michael Zarif.md": {
+	id: "Michael Zarif.md";
+  slug: "michael-zarif";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Mike Cambell.md": {
 	id: "Mike Cambell.md";
   slug: "mike-cambell";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Muhammad Omar Farooq.md": {
+	id: "Muhammad Omar Farooq.md";
+  slug: "muhammad-omar-farooq";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -402,6 +437,13 @@ declare module 'astro:content' {
 "Rigpea Wangchuk.md": {
 	id: "Rigpea Wangchuk.md";
   slug: "rigpea-wangchuk";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Rishabh Rishabh.md": {
+	id: "Rishabh Rishabh.md";
+  slug: "rishabh-rishabh";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -486,6 +528,13 @@ declare module 'astro:content' {
 "Virginia Popov.md": {
 	id: "Virginia Popov.md";
   slug: "virginia-popov";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Xingda Li.md": {
+	id: "Xingda Li.md";
+  slug: "xingda-li";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
