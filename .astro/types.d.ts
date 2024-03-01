@@ -175,6 +175,13 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"blog": {
+"Abdul Malik.md": {
+	id: "Abdul Malik.md";
+  slug: "abdul-malik";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Adam Shamsi.md": {
 	id: "Adam Shamsi.md";
   slug: "adam-shamsi";
@@ -227,6 +234,13 @@ declare module 'astro:content' {
 "Arin Gokdemir.md": {
 	id: "Arin Gokdemir.md";
   slug: "arin-gokdemir";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Avery Smith.md": {
+	id: "Avery Smith.md";
+  slug: "avery-smith";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -315,6 +329,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"J Lamoureux.md": {
+	id: "J Lamoureux.md";
+  slug: "j-lamoureux";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Jay Yoo.md": {
 	id: "Jay Yoo.md";
   slug: "jay-yoo";
@@ -357,6 +378,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Lynn Asare-Bediako.md": {
+	id: "Lynn Asare-Bediako.md";
+  slug: "lynn-asare-bediako";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Matthew Batacan.md": {
 	id: "Matthew Batacan.md";
   slug: "matthew-batacan";
@@ -392,9 +420,23 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Morgan Wylie.md": {
+	id: "Morgan Wylie.md";
+  slug: "morgan-wylie";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Muhammad Omar Farooq.md": {
 	id: "Muhammad Omar Farooq.md";
   slug: "muhammad-omar-farooq";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Natali Vasquez.md": {
+	id: "Natali Vasquez.md";
+  slug: "natali-vasquez";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -462,9 +504,23 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Safiya Karim.md": {
+	id: "Safiya Karim.md";
+  slug: "safiya-karim";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Sai Gunturu.md": {
 	id: "Sai Gunturu.md";
   slug: "sai-gunturu";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Sam Koenig.md": {
+	id: "Sam Koenig.md";
+  slug: "sam-koenig";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -542,6 +598,13 @@ declare module 'astro:content' {
 "Youssef Haider.md": {
 	id: "Youssef Haider.md";
   slug: "youssef-haider";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Yuki Frampton.md": {
+	id: "Yuki Frampton.md";
+  slug: "yuki-frampton";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
