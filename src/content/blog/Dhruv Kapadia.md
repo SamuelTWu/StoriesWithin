@@ -1,6 +1,6 @@
 ---
 title: Dhruv Kapadia
-description: Sparked by a powerful autobiography, Dhruv Kapadia's political career started in eighth grade. Now at Boston University, he engages in community events, gaining a deeper appreciation for the city's diversity and their privileged position compared to nearby challenges.
+description: Dhruv reflects on his journey to becoming a politician in the Boston community.
 pubDate: 2024-01-29 22:43
 author: Sam Wu
 tags:

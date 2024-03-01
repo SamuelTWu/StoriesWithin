@@ -1,6 +1,6 @@
 ---
 title: Divya Sood
-description: Divya has a longstanding interest in writing and reflecting on personal experiences, starting a blog during quarantine to share organic reflections. 
+description: Divya has a longstanding interest in writing and reflecting on personal experiences.
 pubDate: 2024-01-30 09:32
 author: Sam Wu
 tags:

@@ -4,7 +4,7 @@ description: Safiya goes from mom's lectures to aspiring to make finance more pe
 pubDate: 2024-02-23 14:40
 author: Sam Wu
 tags:
-  - Finance
+  - Business
   - Massachusetts
 imgUrl: '../../assets/Safiya_Karim.JPG'
 layout: ../../layouts/BlogPost.astro

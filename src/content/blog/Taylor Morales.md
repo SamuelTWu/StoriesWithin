@@ -1,6 +1,6 @@
 ---
 title: Taylor Morales
-description: Navigating the pandemic during college prompted a transformative shift in perception, leading Taylor to pick up a camera, observing and documenting people's lives from a distance.
+description: Navigating the pandemic during college prompted a transformative shift in perception, leading Taylor to pick up a camera.
 pubDate: 2024-01-24 22:28
 author: Sam Wu
 tags:

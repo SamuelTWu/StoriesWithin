@@ -1,6 +1,6 @@
 ---
 title: Precious Amiewalan
-description: Born in Nigeria and moving to a new country at the age of seven, Precious explored various interests and found a passion for business. She explains the ways she helped her parents as a child. 
+description: Immigrating to the US from Nigeria, Precious explored various interests and found a passion for business.
 pubDate: 2024-01-29 18:57
 author: Sam Wu
 tags:

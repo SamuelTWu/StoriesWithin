@@ -1,6 +1,6 @@
 ---
 title: Demari Stacker
-description: "Demari happened to choose Japanese and ended up enjoying it, appreciating both the linguistic challenges and the cultural insights."
+description: "Demari happened to choose Japanese and ended up appreciating the linguistic challenges and cultural insights."
 pubDate: 2024-02-08 13:55
 author: Sam Wu
 tags:

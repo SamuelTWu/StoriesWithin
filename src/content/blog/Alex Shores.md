@@ -1,6 +1,6 @@
 ---
 title: Alex Shores
-description: As a first-generation college student, Alex initially faced pressure to focus solely on their career from parents without college degrees, but later discovered a passion for film production at BU. 
+description: As a first-generation college student, Alex initially faced pressure to focus solely on his career.
 pubDate: 2024-01-30 09:13
 author: Sam Wu
 tags:

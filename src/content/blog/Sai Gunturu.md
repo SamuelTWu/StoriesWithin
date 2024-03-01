@@ -1,6 +1,6 @@
 ---
 title: Sai Gunturu
-description: In high school, Sai struggled with insecurity, relying on academic achievements for self-worth and putting on a confident facade, but upon entering college and finding a more supportive community, they experienced positive changes in their self-perception.
+description: In high school, Sai struggled with insecurity, relying on academic achievements for self-worth.
 pubDate: 2024-02-30 09:32
 author: Sam Wu
 tags:

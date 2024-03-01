@@ -1,6 +1,6 @@
 ---
 title: Vincent Liu
-description: Vincent has become more outgoing and sociable in college, joining the Chinese Student Association and pursuing graphic design. 
+description: Vincent reflects on his journey to becoming more outgoing in college. 
 pubDate: 2024-01-24 22:28
 author: Sam Wu
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Bella Davies
-description: In a highly competitive high school environment, the individual initially felt pressured to be perfect, influenced by friends who seemed put together, but during sophomore year, everything changed.
+description: In a highly competitive high school environment, Bella initially felt pressured to be perfect.
 pubDate: 2024-01-29 22:43
 author: Sam Wu
 tags:

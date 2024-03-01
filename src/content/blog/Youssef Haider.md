@@ -1,6 +1,6 @@
 ---
 title: Youssef Haider
-description: For Youssef, family sacrifice fuels academic success. 
+description: For Youssef, family sacrifice fuels academic success, even during difficult times. 
 pubDate: 2024-01-24 22:28
 author: Sam Wu
 tags:

@@ -1,12 +1,12 @@
 ---
 title: Samantha Perez
-description: Samantha initially pursued medicine to please their parents but later switched to studying political science and Latin American studies.
+description: Samantha initially pursued medicine to please their parents but later switched to studying political science.
 pubDate: 2024-02-24 22:28
 author: Sam Wu
 tags:
   - Family
   - Poli Sci
-  - Latin American
+  - Florida
 imgUrl: '../../assets/Sam_Perez.jpeg'
 layout: ../../layouts/BlogPost.astro
 

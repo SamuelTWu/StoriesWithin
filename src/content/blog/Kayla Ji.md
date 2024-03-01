@@ -1,6 +1,6 @@
 ---
 title: Kayla Ji
-description: In high school, struggling to pay attention, Kayla initially doubted having ADHD until their sister's diagnosis prompted testing, leading to self-acceptance and a better understanding of their behavior.
+description: Kayla initially doubted having ADHD until their sister's diagnosis prompted testing.
 pubDate: 2024-01-24 22:28
 author: Sam Wu
 tags:

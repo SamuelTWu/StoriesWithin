@@ -1,6 +1,6 @@
 ---
 title: Rithvik Doshi
-description: In college, Rithvik is on a journey of self-discovery, becoming more honest with themselves, and working to break down counterproductive behaviors inherited from his parents.
+description: Rithvik is on a journey of self-discovery and working to break down counterproductive behaviors.
 pubDate: 2024-01-30 09:27
 author: Sam Wu
 tags:

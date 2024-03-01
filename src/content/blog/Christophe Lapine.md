@@ -1,6 +1,6 @@
 ---
 title: Christophe Lapine
-description: At Japanese International School, Christophe came out as gay, and was initially uncertain about acceptance.
+description: Christophe came out as gay and was uncertain about acceptance.
 pubDate: 2024-01-29 22:43
 author: Sam Wu
 tags:

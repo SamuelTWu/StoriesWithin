@@ -1,6 +1,6 @@
 ---
 title: Melissa Taylor
-description: In college, Melissa initially struggled with overcommitment and a stress-induced migraine, leading to a realization of the need for self-care, including accepting and asking for help.
+description: Melissa initially struggled with overcommitment and a stress-induced migraine, leading to a realization of the need for self-care.
 pubDate: 2024-01-30 09:27
 author: Sam Wu
 tags:
