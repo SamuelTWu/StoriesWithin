@@ -11,15 +11,20 @@ const navigationItems = [
 const socialIcons = [
   {
     name: 'GitHub',
-    url: 'https://github.com/eliancodes/brutal',
+    url: 'https://github.com/SamuelTWu',
     icon: 'i-uil-github',
   },
   {
-    name: 'Twitter',
-    url: 'https://www.twitter.com/eliancodes',
-    icon: 'i-uil-twitter',
+    name: 'Instagram',
+    url: 'https://www.instagram.com/stories_within_/',
+    icon: 'i-uil-instagram',
   },
-  { name: 'RSS', url: '/feed.xml', icon: 'i-uil-rss' },
+  {
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/in/samuel-wu-bu/',
+    icon: 'i-uil-linkedin',
+  },
+  
 ];
 
 const { pageTitle } = Astro.props;
@@ -53,7 +58,7 @@ const { pageTitle } = Astro.props;
               href={item.url}
               class='hover:text-green hover:underline transition-all duration-150 ease-in-out'
               target='_blank'
-              title={`'See @ElianCodes on ${item.name}`}
+              title={`'See Sam Wu on ${item.name}`}
             >
               <div class:list={[item.icon, 'w-6 h-6']} />
             </a>
