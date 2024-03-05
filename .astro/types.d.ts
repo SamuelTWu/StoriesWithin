@@ -350,6 +350,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Huley Sow.md": {
+	id: "Huley Sow.md";
+  slug: "huley-sow";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "J Lamoureux.md": {
 	id: "J Lamoureux.md";
   slug: "j-lamoureux";
@@ -598,6 +605,13 @@ declare module 'astro:content' {
 "Sora Heo.md": {
 	id: "Sora Heo.md";
   slug: "sora-heo";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Tanmayi Rayavaram.md": {
+	id: "Tanmayi Rayavaram.md";
+  slug: "tanmayi-rayavaram";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
