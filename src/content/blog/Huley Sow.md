@@ -5,7 +5,7 @@ pubDate: 2024-02-23 14:40
 author: Sam Wu
 tags:
   - Speech
-  - Medical Anthropology
+  - Anthropology
   - Black
   - Georgia
 imgUrl: '../../assets/Huley_Sow.JPG'

@@ -273,6 +273,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Dante Gonzalez.md": {
+	id: "Dante Gonzalez.md";
+  slug: "dante-gonzalez";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Demari Stacker.md": {
 	id: "Demari Stacker.md";
   slug: "demari-stacker";
@@ -357,9 +364,23 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Iffany Zou.md": {
+	id: "Iffany Zou.md";
+  slug: "iffany-zou";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "J Lamoureux.md": {
 	id: "J Lamoureux.md";
   slug: "j-lamoureux";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Javaugn Headly.md": {
+	id: "Javaugn Headly.md";
+  slug: "javaugn-headly";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -392,6 +413,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Kristi Li.md": {
+	id: "Kristi Li.md";
+  slug: "kristi-li";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Leensyn Rivera.md": {
 	id: "Leensyn Rivera.md";
   slug: "leensyn-rivera";
@@ -409,6 +437,13 @@ declare module 'astro:content' {
 "Lynn Asare-Bediako.md": {
 	id: "Lynn Asare-Bediako.md";
   slug: "lynn-asare-bediako";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Madelyn Keller.md": {
+	id: "Madelyn Keller.md";
+  slug: "madelyn-keller";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -598,6 +633,13 @@ declare module 'astro:content' {
 "Sissi Wang.md": {
 	id: "Sissi Wang.md";
   slug: "sissi-wang";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Smaran Ramidi.md": {
+	id: "Smaran Ramidi.md";
+  slug: "smaran-ramidi";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
