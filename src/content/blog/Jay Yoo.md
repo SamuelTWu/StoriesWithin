@@ -19,6 +19,6 @@ Having an end is what gives meaning to everything.
 
 Because people forget to cherish what we have. You always regret it after you lose it.
 
-My dad passed away when I was in high school. I just never had the chance to thank him ever. And then I've lost my chance to. 
+My dad passed away when I was in high school. I just never had the chance to thank him ever. And I've lost my chance to. 
 
 Don't hold back on saying sorry, thank you, and I love you.

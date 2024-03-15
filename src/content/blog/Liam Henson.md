@@ -6,7 +6,7 @@ author: Sam Wu
 tags:
   - Chinese
   - California
-  - Film
+  - Psychology
 imgUrl: '../../assets/Liam_Henson.JPG'
 layout: ../../layouts/BlogPost.astro
 

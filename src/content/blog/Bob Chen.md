@@ -1,6 +1,6 @@
 ---
-title: Bob Chen
-description: Bob Chen talks about adjusting to American culture from China, and reminisces about his host families.
+title: Chubo Chen
+description: Chubo Chen talks about adjusting to American culture from China, and reminisces about his host families.
 pubDate: 2024-01-29 19:21
 author: Sam Wu
 tags:
@@ -12,7 +12,7 @@ imgUrl: '../../assets/Bob_Chen.JPG'
 layout: ../../layouts/BlogPost.astro
 
 ---
-# Bob Chen
+# Chubo Chen
 
 ![local image](../../assets/Bob_Chen.JPG)
 

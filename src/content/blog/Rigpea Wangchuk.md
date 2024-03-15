@@ -16,7 +16,7 @@ layout: ../../layouts/BlogPost.astro
 
 ![local image](../../assets/Rigpea_Wangchuk.JPG)
 
-I started off as a shy kid. My first semester I barely talk to people. I was a shut-in. Every night I could have gone out. But the thing is I stayed in. So my first year I focused on academics a lot
+I started off as a shy kid. My first semester I barely talked to people. I was a shut-in. Every night I could have gone out. But the thing is I stayed in. So my first year I focused on academics a lot
 
 The thing that caused the change was office hours. I just went, even if I had no work to do, and I just sat there and I started talking to a lot of people. I would approach people and say "Oh, hi. Hello. How's that going?" My trick was to remember just one small thing that they did yesterday. I guess in that way I grew some sort of attachment and started forming friendships. That's how I met a lot of the CS friends I made right now. 
 

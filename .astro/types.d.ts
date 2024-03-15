@@ -196,6 +196,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Aima Rashid.md": {
+	id: "Aima Rashid.md";
+  slug: "aima-rashid";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Alex Chavira.md": {
 	id: "Alex Chavira.md";
   slug: "alex-chavira";
@@ -206,6 +213,13 @@ declare module 'astro:content' {
 "Alex Shores.md": {
 	id: "Alex Shores.md";
   slug: "alex-shores";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Alexander Wen.md": {
+	id: "Alexander Wen.md";
+  slug: "alexander-wen";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -224,6 +238,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Andrew Burke-Stevenson.md": {
+	id: "Andrew Burke-Stevenson.md";
+  slug: "andrew-burke-stevenson";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Araba Aidoo.md": {
 	id: "Araba Aidoo.md";
   slug: "araba-aidoo";
@@ -234,6 +255,13 @@ declare module 'astro:content' {
 "Arin Gokdemir.md": {
 	id: "Arin Gokdemir.md";
   slug: "arin-gokdemir";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Ava Ahkiong.md": {
+	id: "Ava Ahkiong.md";
+  slug: "ava-ahkiong";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -262,6 +290,13 @@ declare module 'astro:content' {
 "Charlotte Cheung.md": {
 	id: "Charlotte Cheung.md";
   slug: "charlotte-cheung";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Cheryl Lai.md": {
+	id: "Cheryl Lai.md";
+  slug: "cheryl-lai";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -392,6 +427,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Josie Huang.md": {
+	id: "Josie Huang.md";
+  slug: "josie-huang";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Juneau Wang.md": {
 	id: "Juneau Wang.md";
   slug: "juneau-wang";
@@ -420,6 +462,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Kyleigh Stewart.md": {
+	id: "Kyleigh Stewart.md";
+  slug: "kyleigh-stewart";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Leensyn Rivera.md": {
 	id: "Leensyn Rivera.md";
   slug: "leensyn-rivera";
@@ -430,6 +479,20 @@ declare module 'astro:content' {
 "Liam Henson.md": {
 	id: "Liam Henson.md";
   slug: "liam-henson";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Logan Lechuga.md": {
+	id: "Logan Lechuga.md";
+  slug: "logan-lechuga";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Lydia Palmer.md": {
+	id: "Lydia Palmer.md";
+  slug: "lydia-palmer";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -476,6 +539,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Mia Ovrbo.md": {
+	id: "Mia Ovrbo.md";
+  slug: "mia-ovrbo";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Michael Zarif.md": {
 	id: "Michael Zarif.md";
   slug: "michael-zarif";
@@ -511,9 +581,23 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Natascha Nussbaum.md": {
+	id: "Natascha Nussbaum.md";
+  slug: "natascha-nussbaum";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Nicolas McMahon.md": {
 	id: "Nicolas McMahon.md";
   slug: "nicolas-mcmahon";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Noelle Lo.md": {
+	id: "Noelle Lo.md";
+  slug: "noelle-lo";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -525,9 +609,23 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Parker Mendoza.md": {
+	id: "Parker Mendoza.md";
+  slug: "parker-mendoza";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "Precious Amiewalan.md": {
 	id: "Precious Amiewalan.md";
   slug: "precious-amiewalan";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Rafaele Dimaggio.md": {
+	id: "Rafaele Dimaggio.md";
+  slug: "rafaele-dimaggio";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -556,6 +654,13 @@ declare module 'astro:content' {
 "Rishabh Rishabh.md": {
 	id: "Rishabh Rishabh.md";
   slug: "rishabh-rishabh";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Rishi Shah.md": {
+	id: "Rishi Shah.md";
+  slug: "rishi-shah";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -612,6 +717,13 @@ declare module 'astro:content' {
 "Samantha Perez.md": {
 	id: "Samantha Perez.md";
   slug: "samantha-perez";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Sara Rathore.md": {
+	id: "Sara Rathore.md";
+  slug: "sara-rathore";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
@@ -696,6 +808,13 @@ declare module 'astro:content' {
 "Youssef Haider.md": {
 	id: "Youssef Haider.md";
   slug: "youssef-haider";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"Yuka Masamura.md": {
+	id: "Yuka Masamura.md";
+  slug: "yuka-masamura";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
