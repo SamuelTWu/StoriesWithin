@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Smaran Ramidi
 
 ![local image](../../assets/Smaran_Ramidi.jpeg)
+
 I have an appreciation for people. My best times are around people. I just appreciate getting to know people and learning so much about what makes them them. If I spend more than 24 hours by myself with little interaction with people, I start feeling emotionally drained, which is the complete opposite of a lot of people.
 
 I have mellowed out a lot. I've actually got so many Snapchat memories recently of how I was freshman year and I mellowed out a lot more. I used to be a lot more flamboyant, but now I'm more reserved. I've honestly matured. I'm more focused. It could be the stress. I feel like I've taken on 50 years being here. It's crazy. 

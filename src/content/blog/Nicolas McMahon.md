@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Nico McMahon
 
 ![local image](../../assets/Nico_McMahon.JPG)
+
 I was fascinated by stargazing. My town is in the suburbs so it's not super light polluted. There's a park near my house that I would go to all the time, and from there you could see so many stars. I knew that I wanted to do astronomy, maybe not in a professional context, but I knew I wanted to do something. Watching TV shows as a kid, you'd see all of those astrophysicists on TV like Neil Degrasse Tyson and Michio Kaku. I watched every freaking Nova show. My dad noticed that I was so into these astronomy TV shows and he showed me Carl Sagan’s Cosmos. 
 
 They all kind of occupied a really lofty image in my head where these people are incredibly successful and they do astronomy and I want to be like them. We don't always think about the vastness of our universe at all times in cosmology. Part of the reason is that we abstract it a lot. A cosmologist would tell you that 1 Megaparsec is a very small distance, but to everyone else, that's a distance of over 3 million light years. Astronomy is really just physics and computer science with the theme of the universe. It's the detailed study of objects and it’s a human endeavor. So the people who do astrophysics think a lot about the work that they do in relation to other people.

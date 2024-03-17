@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # J Lamoureux
 
 ![local image](../../assets/J_Lamoureux.JPG)
+
 Just because you don't understand something doesn't mean you can't learn. There's so much hate in the world because people don't understand the things people go through. You just have to have more empathy with everyone's struggles and everyone's stories.
 
 I'm nonbinary and a lot of people seem to want to take my rights and identity away. But it's because they don't understand what I have to go through and everything I have lived and will continue to live every single day.

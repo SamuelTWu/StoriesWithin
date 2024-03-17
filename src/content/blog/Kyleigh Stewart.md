@@ -13,6 +13,7 @@ layout: ../../layouts/BlogPost.astro
 # Kyleigh Stewart
 
 ![local image](../../assets/Kyleigh_Stewart.JPG)
+
 You really never know what someone else may be going through in their lives. Take a second to pause, reflect, and think about what you say or what you do. Think about how it might affect everyone around you or even just yourself later. Take time and think things through.
 
 A lot of people rush into things really quickly. I see a lot of impulsive actions that really make people regret a lot of things in life. A lot of my family members say they’ve rushed into a lot of things in the past. They wish they had taken some time to think things through before they jumped in and looked at possible options. 

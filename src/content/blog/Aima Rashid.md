@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Aima Rashid
 
 ![local image](../../assets/Aima_Rashid.JPG)
+
 Be more in the present and stop living in the past or worrying about the future. Just enjoy the moments of today.
 
 A lot of people are living in past trauma or worrying about the mistakes they made in the past or thinking about the future and the fact that “I want to do this, I want to do that” and then missing what they're doing today.

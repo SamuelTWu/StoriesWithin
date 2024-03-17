@@ -15,6 +15,7 @@ layout: ../../layouts/BlogPost.astro
 # Rishabh
 
 ![local image](../../assets/Rishabh_Rishabh.JPG)
+
 One thing that everyone knows but no one thinks about it is that everything that happens throughout the universe happens in such a way that it takes the least amount of energy.
 Imagine a leaf falls. It's going to go straight down in the absence of air, of course. But it could have taken any path. 
 

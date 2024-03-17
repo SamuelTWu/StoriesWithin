@@ -15,6 +15,7 @@ layout: ../../layouts/BlogPost.astro
 # Rishi Shah
 
 ![local image](../../assets/Rishi_Shah.JPG)
+
 I went to high school in Bakersfield, California. They're not particularly known for their educational prowess. It's a big farming community, a big oil community. I tried to keep myself busy. I was a big chess player. When I was younger, there was a pretty strong chess community. But by the time I got to high school it kind of tapered off. There weren't many many people left. 
 One summer, I didn't really have too much to do, so I tried making a curriculum to teach chess, with a book with structure and things. I taught it for a summer at the Boys and Girls Club. In my junior year, I actually expanded a bit. By the time we got to senior yea, there was a pretty good group of students who were interested.
 So we were registering for tournaments and needing to buy boards and it got expensive. So I was trying to get money from people but it was hard. People don't really want to donate. So I started taking prom photos and formal photos, and we bought chess boards and registered people for chess tournaments using those. 

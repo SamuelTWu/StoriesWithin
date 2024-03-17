@@ -15,6 +15,7 @@ layout: ../../layouts/BlogPost.astro
 # Jay Yoo
 
 ![local image](../../assets/Jay_Yoo.JPG)
+
 Having an end is what gives meaning to everything.
 
 Because people forget to cherish what we have. You always regret it after you lose it.

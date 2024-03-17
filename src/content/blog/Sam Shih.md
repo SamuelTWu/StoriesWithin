@@ -15,4 +15,5 @@ layout: ../../layouts/BlogPost.astro
 # Sam Shih
 
 ![local image](../../assets/Sam_Shih.JPG)
+
 Uhhhh no comment.

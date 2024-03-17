@@ -15,6 +15,7 @@ layout: ../../layouts/BlogPost.astro
 # Tanmayi Rayavaram
 
 ![local image](../../assets/Tanmayi_Rayavaram_2.JPG)
+
 I was born in Queens, New York City. There’s so much diversity there. But when I was little, my mom moved to upstate New York. We moved to a town that has 2000 people and all of them are white. So the contrast was crazy. It was weird. Some things were super polarizing. Like, I was the first person of color to ever win prom queen.
 
 In the whole school, there were maybe 10 Indian kids in total. I was insecure about my identity and who I was because I wasn't white. It wasn’t that I felt ashamed for not being white, it was more that I knew that if I was white, I would be looked at differently. This might sound superficial, but I ended up losing a ton of weight. I just wanted to reinvent myself. And then sophomore year I came in and people started looking at me differently. I got so many more friends and I felt more confident and I just was more outgoing. I was proud of that in high school because there was a lot of racism.

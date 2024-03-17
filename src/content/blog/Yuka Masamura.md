@@ -14,4 +14,5 @@ layout: ../../layouts/BlogPost.astro
 # Yuka Masamura
 
 ![local image](../../assets/Yuka_Masamura.JPG)
+
 Growing up with my sisters, fighting did make us stronger. But there are some things that you don't have to fight about.

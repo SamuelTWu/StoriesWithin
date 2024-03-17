@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Madelyn Keller
 
 ![local image](../../assets/Madelyn_Keller.JPG)
+
 Back home, I know all of my neighbors. We’ll all casually wave and when someone moves in onto our block, we all make an effort to go out and meet them. I’ll babysit a ton of their kids and we'll have potlucks together.
 
 Here I feel like even in the dorms when you're kind of encouraged to meet each other more, I hardly interacted with a lot of the people I live next to. That threw me a little bit. I don't know, I feel like here more people mind their business, whereas in the south, it’s different. 

@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Xingda Li
 
 ![local image](../../assets/Xingda_Li.JPG)
+
 From what I've heard from the West Coast, people in New England are a bit rude or condescending.
 
 *Do you feel like that's the case in your experience?*

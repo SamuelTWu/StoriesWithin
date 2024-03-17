@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Leensyn Rivera 
 
 ![local image](../../assets/Leensyn_Rivera.JPG)
+
 I would say just Free Palestine to the entire city of Boston, the entire world if I could!
 
 I'm just thinking about what's going on in Israel and Palestine. I don't know why it's so immediate to me right now. I guess it's a hot topic. I'm not from the area. I don't have any personal ties either. I just kind of feel strongly about it and a lot of other people do too. I don't know.

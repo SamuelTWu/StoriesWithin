@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Javaugn Headly
 
 ![local image](../../assets/Javaugn_Headly.jpg)
+
 I think I've gotten better at not having FOMO as much. I guess I learned that I shouldn't feel guilty about how much I earn or how much my family earns. No matter what the circumstances are. And honestly, I realized that there are a lot of things you can do that are, like, cheaper or free or around Boston. And so I try to suggest those kinds of ideas and if people are not for it, then they're not. And if they are, they are.
 
 I suppose as a low-income student, you're only going to interact with these kinds of people more and more. Before I guess I used to see them as more, like, foreign, and maybe even villainize them a bit. But I guess like me, they're just living life and they just happen to live life earning more and having more resources. Sometimes it's not exactly people's responsibility to, I don't know, make people more aware of the world around them.

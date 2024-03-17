@@ -13,6 +13,7 @@ layout: ../../layouts/BlogPost.astro
 # Henry Williams
 
 ![local image](../../assets/Henry_Williams.JPG)
+
 It's OK to be vulnerable. A lot of people, especially now, are sort of scared of getting hurt. I'm a very big believer in no darkness without light. All that stuff is one big thing. Getting hurt is part of it, right? Being vulnerable is a very brave thing and I know it's hard but it's always kind of worth it.
 
 I think it took me a long time to get here. I spent a lot of time thinking about how to project myself. It got me to a place where I just wasn't really that happy. The more I excavated it, the more I realized that need to be more honest with myself and other people. 

@@ -14,6 +14,7 @@ layout: ../../layouts/BlogPost.astro
 # Parker Mendoza
 
 ![local image](../../assets/Parker_Mendoza.jpg)
+
 Don't do anything in life if it doesn't make you happy.
 
 Ever since I was a kid, I was inspired by the movie The Pursuit Of Happiness. That was one of my favorite movies growing up. I kind of follow this mantra where it's saying that life isn't worth living if you're not happy.
