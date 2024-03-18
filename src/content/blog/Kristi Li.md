@@ -4,9 +4,10 @@ description: Kristi is navigating the fast-paced college life and stepping out o
 pubDate: 2024-02-23 14:40
 author: Sam Wu
 tags:
-  - China
+  - Chinese
   - Asian
   - CS
+  - International
 imgUrl: '../../assets/Kristi_Li.JPG'
 layout: ../../layouts/BlogPost.astro
 

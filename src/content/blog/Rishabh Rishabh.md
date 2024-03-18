@@ -7,7 +7,7 @@ tags:
   - Asian
   - Indian
   - Engineering
-  - PhD
+  - International
 imgUrl: '../../assets/Rishabh_Rishabh.JPG'
 layout: ../../layouts/BlogPost.astro
 

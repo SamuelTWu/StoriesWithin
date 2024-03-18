@@ -7,6 +7,7 @@ tags:
   - First Gen
   - Education
   - Transfer
+  - Black
 imgUrl: '../../assets/Rudy_Joseph.JPG'
 layout: ../../layouts/BlogPost.astro
 

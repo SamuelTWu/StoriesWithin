@@ -7,6 +7,7 @@ tags:
   - Theater
   - Art Design
   - Texas
+  - Hispanic
 imgUrl: '../../assets/Dante_Gonzalez.JPG'
 layout: ../../layouts/BlogPost.astro
 

@@ -6,6 +6,7 @@ author: Sam Wu
 tags:
   - Film
   - Arizona
+  - First Gen
 imgUrl: '../../assets/Alex_Shores.JPG'
 layout: ../../layouts/BlogPost.astro
 

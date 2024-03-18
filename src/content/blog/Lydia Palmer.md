@@ -6,7 +6,7 @@ author: Sam Wu
 tags:
   - New Jersey
   - CS
-imgUrl: '../../assets/Lydia_Palmer.JPG'
+imgUrl: '../../assets/Lydia_Palmer_Title.jpg'
 layout: ../../layouts/BlogPost.astro
 
 ---

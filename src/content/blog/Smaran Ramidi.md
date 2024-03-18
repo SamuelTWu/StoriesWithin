@@ -7,6 +7,8 @@ tags:
   - IR
   - Biology
   - Ohio
+  - Indian
+  - Asian
 imgUrl: '../../assets/Smaran_Ramidi.jpeg'
 layout: ../../layouts/BlogPost.astro
 

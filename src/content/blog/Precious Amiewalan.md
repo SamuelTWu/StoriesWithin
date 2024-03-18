@@ -7,6 +7,7 @@ tags:
   - Pre Med
   - Childhood
   - Nigeria
+  - Black
 imgUrl: '../../assets/Precious_Amiewalan.JPG'
 layout: ../../layouts/BlogPost.astro
 

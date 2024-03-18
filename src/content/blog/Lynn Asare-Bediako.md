@@ -6,7 +6,7 @@ author: Sam Wu
 tags:
   - Film
   - Florida
-  - Haiti
+  - Black
 imgUrl: '../../assets/Lynn_Asare.jpg'
 layout: ../../layouts/BlogPost.astro
 

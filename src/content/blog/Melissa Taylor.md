@@ -7,6 +7,7 @@ tags:
   - Education
   - Mental Health
   - Growth
+  - Black
 imgUrl: '../../assets/Melissa_Taylor.JPG'
 layout: ../../layouts/BlogPost.astro
 

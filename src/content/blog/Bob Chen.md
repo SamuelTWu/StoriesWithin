@@ -5,7 +5,7 @@ pubDate: 2024-01-29 19:21
 author: Sam Wu
 tags:
   - Econ
-  - Math
+  - International
   - Chinese
   - Asian
 imgUrl: '../../assets/Bob_Chen.JPG'

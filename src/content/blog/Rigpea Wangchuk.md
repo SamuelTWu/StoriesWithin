@@ -7,7 +7,6 @@ tags:
   - Indian
   - Asian
   - International
-  - Shy
 imgUrl: '../../assets/Rigpea_Wangchuk.JPG'
 layout: ../../layouts/BlogPost.astro
 

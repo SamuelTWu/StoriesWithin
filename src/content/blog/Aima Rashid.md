@@ -4,9 +4,9 @@ description: Aima stresses the importance of living in the present and not worry
 pubDate: 2024-03-15 11:16
 author: Sam Wu
 tags:
-  - Pre-Med
-  - Human Physiology
+  - Pre Med
   - Vermont
+  - Indian
 imgUrl: '../../assets/Aima_Rashid.JPG'
 layout: ../../layouts/BlogPost.astro
 

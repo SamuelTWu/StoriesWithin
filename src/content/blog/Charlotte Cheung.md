@@ -7,6 +7,7 @@ tags:
   - Music
   - Asian
   - Chinese
+  - International
 imgUrl: '../../assets/Charlotte_Cheung.JPG'
 layout: ../../layouts/BlogPost.astro
 

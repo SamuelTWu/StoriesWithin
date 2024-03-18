@@ -6,6 +6,7 @@ author: Sam Wu
 tags:
   - Psychology
   - Massachusetts
+  - Health Science
 imgUrl: '../../assets/Vivian_Lu.JPG'
 layout: ../../layouts/BlogPost.astro
 

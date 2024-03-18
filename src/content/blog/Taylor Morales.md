@@ -6,6 +6,7 @@ author: Sam Wu
 tags:
   - Film
   - California
+  - Hispanic
 imgUrl: '../../assets/Taylor_Morales.JPG'
 layout: ../../layouts/BlogPost.astro
 

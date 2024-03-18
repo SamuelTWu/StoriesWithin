@@ -6,6 +6,8 @@ author: Sam Wu
 tags:
   - Business
   - Nigeria
+  - International
+  - Black
 imgUrl: '../../assets/Abdul_Malik.JPG'
 layout: ../../layouts/BlogPost.astro
 

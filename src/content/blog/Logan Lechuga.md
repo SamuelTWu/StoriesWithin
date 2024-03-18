@@ -7,6 +7,7 @@ tags:
   - CS
   - Music
   - Texas
+  - Hispanic
 imgUrl: '../../assets/Logan_Lechuga.JPG'
 layout: ../../layouts/BlogPost.astro
 

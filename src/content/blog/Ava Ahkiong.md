@@ -6,6 +6,7 @@ author: Sam Wu
 tags:
   - California
   - Classical and Ancient Studies
+  - Asian
 imgUrl: '../../assets/Ava_Ahkiong.jpeg'
 layout: ../../layouts/BlogPost.astro
 

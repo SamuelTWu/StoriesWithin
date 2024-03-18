@@ -7,6 +7,7 @@ tags:
   - Family
   - Poli Sci
   - Florida
+  - Hispanic
 imgUrl: '../../assets/Sam_Perez.jpeg'
 layout: ../../layouts/BlogPost.astro
 

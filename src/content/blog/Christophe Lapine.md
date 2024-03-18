@@ -6,7 +6,7 @@ author: Sam Wu
 tags:
   - Pre Med
   - Massachusetts
-  - Japanese
+  - Japan
 imgUrl: '../../assets/Christophe_Lapine.JPG'
 layout: ../../layouts/BlogPost.astro
 

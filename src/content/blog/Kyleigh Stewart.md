@@ -6,6 +6,7 @@ author: Sam Wu
 tags:
   - Biology
   - California
+  - First Gen
 imgUrl: '../../assets/Kyleigh_Stewart.JPG'
 layout: ../../layouts/BlogPost.astro
 

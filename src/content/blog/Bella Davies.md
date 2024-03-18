@@ -4,7 +4,7 @@ description: In a highly competitive high school environment, Bella initially fe
 pubDate: 2024-01-29 22:43
 author: Sam Wu
 tags:
-  - Data Science
+  - CS
   - California
   - Asian
   - Chinese
