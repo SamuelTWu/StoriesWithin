@@ -6,7 +6,7 @@ author: Sam Wu
 tags:
   - Engineering
   - Massachusetts
-  - Hispanic
+  - Transfer
 imgUrl: '../../assets/Leensyn_Rivera.JPG'
 layout: ../../layouts/BlogPost.astro
 

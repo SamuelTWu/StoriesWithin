@@ -4,7 +4,7 @@ description: Noelle discusses the importance of forgiveness ad learning from one
 pubDate: 2024-03-15 13:08
 author: Sam Wu
 tags:
-  - Journalism
+  - Hawaii
   - Advertising
   - Asian
 imgUrl: '../../assets/Noelle_Lo.JPG'

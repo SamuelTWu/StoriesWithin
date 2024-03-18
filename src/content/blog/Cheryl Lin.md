@@ -1,6 +1,6 @@
 ---
 title: Cheryl Lin
-description: Cheryl recounts her time before tranfering to BU. 
+description: Cheryl recounts her time before transfering to BU. 
 pubDate: 2024-03-17 14:33
 author: Sam Wu
 tags:

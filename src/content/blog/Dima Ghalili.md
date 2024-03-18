@@ -1,6 +1,6 @@
 ---
 title: Dima Ghalili
-description: Sam doesn't have much to say. 
+description: Dima recounts his transition from an international high school to BU. 
 pubDate: 2024-02-29 21:11
 author: Sam Wu
 tags:
