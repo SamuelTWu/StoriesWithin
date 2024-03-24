@@ -14,8 +14,7 @@ layout: ../../layouts/BlogPost.astro
 
 ![local image](../../assets/Lydia_Palmer.JPG)
 
-I went to a very competitive high school. I went to a high school that was ranked very high. Kids flocked to that school because it was going to feed them into an ivy or something.
-The people at this school were very competitive and it was all in your face because you live there. So you really couldn't escape that environment. It's really mentally destructive. 
+I went to a high school that was ranked very high. Kids flocked to that school because it was likely to feed them into an ivy.The people at this school were also very competitive and it was all in your face because you live there, so you really couldn't escape that environment. At times it could be really mentally destructive. 
 
 I started accepting that I have my own path and even if it seems like other people are doing more meaningful things or finding more success, it's not black and white. Your story is not going to look exactly like their story. But I think that's so tough, especially when you're younger and you don't know all the possibilities that life has to offer.
 
