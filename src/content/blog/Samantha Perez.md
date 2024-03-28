@@ -16,7 +16,7 @@ layout: ../../layouts/BlogPost.astro
 
 ![local image](../../assets/Sam_Perez.jpeg)
 
-I have immigrant parents. It's like you either have to be a lawyer or a doctor. So I was like I’ll be a doctor. I found it more interesting. Now, even though I’m super interested in psychology, I decided to not do medicine. I'm studying political science in Latin American studies, which is a total shift from what I did when I first got here.
+I have immigrant parents. It's like you either have to be a lawyer or a doctor. So I was like, "I’ll be a doctor". I found it more interesting. Now, even though I’m super interested in psychology, I decided to not do medicine. I'm studying political science in Latin American studies, which is a total shift from what I did when I first got here.
 
 It was rough. My mom was on my ass for sure. She stressed out about it a lot more than I did, to be honest. She had no idea what I was going to do post-college. She was worried about if I’d be able to make money studying what I was studying. Which is totally fair. I get it, but right now, I feel like we all say the same thing: “I don't care if I make money, I just care if I get to do what I want to do”.
 
