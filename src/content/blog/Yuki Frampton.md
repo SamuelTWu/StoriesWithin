@@ -1,18 +1,17 @@
 ---
-title: Ruofei Shang
-description: Big thanks to Ruofei for helping me with the photography! This project could not be done without her.
+title: Yuki Frampton
+description: Yuki was set on being a music teacher, inspired by great mentors. 
 pubDate: 2024-02-23 14:40
 author: Sam Wu
 tags:
-  - Anthropology
-  - Asian
-  - Chinese
-imgUrl: '../../assets/Ruofei_Shang.jpg'
+  - Florida
+  - Music
+imgUrl: '../../assets/Yuki_Frampton.JPG'
 layout: ../../layouts/BlogPost.astro
 
 ---
-# Ruofei Shang
+# Yuki Frampton
 
-![local image](../../assets/Ruofei_Shang.jpg)
+![local image](../../assets/Yuki_Frampton.JPG)
 
-Can I take your picture? 
+I've always known what I wanted to do. I've always been very adamant about being a music teacher. But now, being older and going through some good and bad music experiences, a lot has changed. Even so, I’ve seen great music teachers who have such care and respect for their students that's reciprocated, and that inspired me to keep going. 
