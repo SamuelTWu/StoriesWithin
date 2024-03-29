@@ -7,12 +7,12 @@ tags:
   - Anthropology
   - Asian
   - Chinese
-imgUrl: '../../assets/Ruofei_Shang.jpeg'
+imgUrl: '../../assets/Ruofei_Shang.jpg'
 layout: ../../layouts/BlogPost.astro
 
 ---
 # Ruofei Shang
 
-![local image](../../assets/Ruofei_Shang.jpeg)
+![local image](../../assets/Ruofei_Shang.jpg)
 
 Can I take your picture? 

@@ -7,6 +7,7 @@ tags:
   - Islam
   - Texas
   - Egyptian
+  - Engineering
 imgUrl: '../../assets/Nourhan_El_Sherif.JPG'
 layout: ../../layouts/BlogPost.astro
 
