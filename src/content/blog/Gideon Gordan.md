@@ -6,13 +6,13 @@ author: Sam Wu
 tags:
   - IR
   - Massachusetts
-imgUrl: '../../assets/Gideon_Gordan.JPG'
+imgUrl: '../../assets/Gideon_Gordan.jpg'
 layout: ../../layouts/BlogPost.astro
 
 ---
 # Gideon Gordan
 
-![local image](../../assets/Gideon_Gordan.JPG)
+![local image](../../assets/Gideon_Gordan.jpg)
 
 I've gotten more political in college. Mostly just being aware of politics existing. My political beliefs have changed but in complicated ways that would take too long to explain. The way I think about my religion has changed as well. I'm treating it more culturally now than as specific obligations.
 
