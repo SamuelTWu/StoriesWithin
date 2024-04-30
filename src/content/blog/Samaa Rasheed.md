@@ -16,7 +16,7 @@ layout: ../../layouts/BlogPost.astro
 
 ![local image](../../assets/Samaa_Rasheed.JPG)
 
-I went to Lowell, a magnet high school in San Francisco. I had to take a three-hour exam in middle school and then I had to write a personal statement. I never thought I was that smart growing up because I learned Urdu before english, so I was really behind on reading and writing. It's really tough when you don't know how to read and everyone else does. My best friend taught me how to read because she knew way before me and clearly it was advanced enough to teach someone else. And so I guess I went to that school to prove myself.  
+I went to Lowell, a magnet high school in San Francisco. I had to take a three-hour exam in middle school and then I had to write a personal statement. I never thought I was that smart growing up because I learned Urdu before Wnglish, so I was really behind on reading and writing. It's really tough when you don't know how to read and everyone else does. My best friend taught me how to read because she knew way before me and clearly it was advanced enough to teach someone else. And so I guess I went to that school to prove myself.  
 
 But I got to Lowell and I definitely still felt that I was not as smart as my peers. And so my personality was just me trying to prove that I was a certain type of person.
 

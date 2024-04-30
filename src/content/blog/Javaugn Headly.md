@@ -1,5 +1,5 @@
 ---
-title: Javaugn Headly
+title: Javaugn Headley
 description: Javaugn is learning to manage FOMO and gaining empathy for others' circumstances.
 pubDate: 2024-02-23 14:40
 author: Sam Wu
@@ -11,7 +11,7 @@ imgUrl: '../../assets/Javaugn_Headly.jpg'
 layout: ../../layouts/BlogPost.astro
 
 ---
-# Javaugn Headly
+# Javaugn Headley
 
 ![local image](../../assets/Javaugn_Headly.jpg)
 
